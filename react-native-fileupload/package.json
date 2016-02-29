@@ -1,0 +1,50 @@
+{
+  "name": "react-native-fileupload",
+  "version": "1.2.0",
+  "description": "A file upload plugin for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippKrone/react-native-fileupload.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "file",
+    "upload"
+  ],
+  "author": {
+    "name": "Philipp Krone"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhilippKrone/react-native-fileupload/issues"
+  },
+  "homepage": "https://github.com/PhilippKrone/react-native-fileupload",
+  "gitHead": "df79da5c29edbd78c3307c9370f6becf723b53cd",
+  "_id": "react-native-fileupload@1.2.0",
+  "_shasum": "af2bb2289ba2a4fe899d343f0d102a978350e34b",
+  "_from": "react-native-fileupload@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "philippkrone",
+    "email": "philipp.krone@yoloci.com"
+  },
+  "dist": {
+    "shasum": "af2bb2289ba2a4fe899d343f0d102a978350e34b",
+    "tarball": "http://registry.npmjs.org/react-native-fileupload/-/react-native-fileupload-1.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "philippkrone",
+      "email": "philipp.krone@yoloci.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-fileupload/-/react-native-fileupload-1.2.0.tgz"
+}
